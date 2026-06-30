@@ -1,5 +1,4 @@
 package Day_8.HomeTask;
-
 public class MissingNumbers {
     public static void main(String[] args) {
         int N = 8;
