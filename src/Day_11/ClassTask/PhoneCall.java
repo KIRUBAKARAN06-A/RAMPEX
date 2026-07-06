@@ -1,5 +1,5 @@
-package day_11.ClassTask;
-import java.util.Scanner;
+package Day_11.ClassTask;
+
 public class PhoneCall {
     public static void main(String [] args){
         iphone p1 = new iphone();

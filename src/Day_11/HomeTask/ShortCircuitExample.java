@@ -1,4 +1,4 @@
-package day_11.HomeTask;
+package Day_11.HomeTask;
 
 public class ShortCircuitExample {
     public static void main(String[] args) {

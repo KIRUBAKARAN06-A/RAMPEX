@@ -1,5 +1,5 @@
-package day_11.ClassTask;
-import java.util.SortedMap;
+package Day_11.ClassTask;
+
 public class carTask {
 public static void main(String [] args) {
             Car c1 = new Car("audi","m1");

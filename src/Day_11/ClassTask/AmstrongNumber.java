@@ -1,4 +1,4 @@
-package day_11.ClassTask;
+package Day_11.ClassTask;
 
 public class AmstrongNumber {
 

@@ -1,4 +1,4 @@
-package day_11.ClassTask;
+package Day_11.ClassTask;
 
 public class Interface {
     public static void main(String [] args){
