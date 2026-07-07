@@ -1,4 +1,4 @@
-package Day_12.HomeTask;
+package Day_12.ClassTask;
 import java.util.Scanner;
 public class Eh {
 
