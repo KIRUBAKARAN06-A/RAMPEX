@@ -1,0 +1,20 @@
+package Day_21.ClassTask;
+
+public class RecursionDemo {
+    public static void main (String[] args) {
+         int a=6;
+         fun(a);
+    }
+
+           public static void fun(int a){
+             if(a==1){
+
+                 return;
+             }
+
+               a--;
+            System.out.println(a);
+
+            fun(a);
+    }
+}
